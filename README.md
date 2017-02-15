@@ -1,2 +1,2 @@
 # hello-world
-Just to start
+System.out.println("Ciao");
